@@ -456,3 +456,15 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+
+/*additional*/
+.inline-image {
+  padding: 20px;
+}
+.about {
+  padding: 0 8%;
+}
+input, .submit-button {
+  text-align: center;
+}
