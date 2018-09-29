@@ -465,13 +465,14 @@ footer .footer-below {
 .about {
   padding: 0 8%;
 }
-#page-top img {
+.navbar-brand img {
   max-width: 100px;
   position: relative;
   top: -20px;
   display: inline;
+  margin-right: 20px;
 }
-#page-top p {
+.navbar-brand p {
   display: inline;
   position: relative;
   top: -20px;
