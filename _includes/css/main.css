@@ -465,14 +465,14 @@ footer .footer-below {
 .about {
   padding: 0 8%;
 }
-#page-top{
+#page-top img {
   max-width: 100px;
   position: relative;
   top: -20px;
   display: inline;
 }
-/*#page-top p {
+#page-top p {
   display: inline;
   position: relative;
   top: -20px;
-}*/
+}
