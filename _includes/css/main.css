@@ -509,3 +509,20 @@ footer .footer-below {
     margin-top: -14rem;
     padding-bottom: 1rem;
 }
+.columns .column:last-child {
+    border-right: none;
+}
+/* styling each column */
+.columns .column .image {
+    margin: 0 auto 2em;
+}
+.columns .column .image {
+    margin: 0 auto 2em;
+}
+.box .content h1:not(:first-child) {
+    margin-top: 1em;
+}
+.columns .column p.list-title {
+    margin-top: 50px;
+    margin-bottom: 8px;
+}
