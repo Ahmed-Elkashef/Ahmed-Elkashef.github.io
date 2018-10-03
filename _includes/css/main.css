@@ -581,3 +581,6 @@ footer .list-inline>li {
     padding-left: 10px;
     padding-right: 10px;
 }
+#page-top > footer > div > div:nth-child(2) {
+    padding-bottom: 5%;
+}
