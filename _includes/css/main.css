@@ -560,6 +560,7 @@ footer img {
     max-width: 250px;
 }
 footer .title {
+    width: 33%;
     font-weight: 300;
     font-size: 1.6rem;
     margin: 2rem auto;
