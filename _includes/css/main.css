@@ -536,3 +536,27 @@ footer .footer-below {
 #about > div > div:nth-child(2) > div > h3 {
     margin-top: 100px;
 }
+
+/*testimonials*/
+#testimonials {
+    background-color: #18bc9c;
+}
+#testimonials h2, #testimonials p {
+    color: white;
+}
+#testimonials img {
+    border-radius: 50%;
+    max-width: 96px;
+    margin: 4rem auto 2rem;
+}
+.quote {
+    font-weight: 300;
+    max-width: 700px;
+    margin: 0 auto 2.5rem;
+}
+#page-top > section.section.testimonials.is-medium.is-white.has-text-centered > div > div > div {
+    padding: 0;
+}
+#page-top > section.section.testimonials.is-medium.is-white.has-text-centered > div > div > div > div > div > p.title.is-size-5 {
+    font-weight: 600;
+}
