@@ -538,12 +538,6 @@ footer .footer-below {
 }
 
 /*testimonials*/
-#testimonials {
-    background-color: #18bc9c;
-}
-#testimonials h2, #testimonials p {
-    color: white;
-}
 #testimonials img {
     border-radius: 50%;
     max-width: 96px;
