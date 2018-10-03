@@ -480,11 +480,14 @@ footer .footer-below {
 .has-text-centered {
     text-align: center !important;
 }
+
 .container.is-narrow {
     max-width: 1200px;
 }
 @media screen and (min-width: 769px) {
     .columns {
         display: flex;
+        border-right: 1px solid #E6ECF8;
+        padding: 70px 45px;
     }
 }
