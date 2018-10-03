@@ -484,6 +484,9 @@ footer .footer-below {
 .container.is-narrow {
     max-width: 1200px;
 }
+.columns .column ul {
+    list-style: none;
+}
 @media screen and (min-width: 769px) {
     .columns {
         display: flex;
