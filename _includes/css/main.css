@@ -483,7 +483,8 @@ footer .footer-below {
 .container.is-narrow {
     max-width: 1200px;
 }
-@media screen and (min-width: 769px), print
-.columns:not(.is-desktop) {
-    display: flex;
+@media screen and (min-width: 769px) {
+    .columns {
+        display: flex;
+    }
 }
