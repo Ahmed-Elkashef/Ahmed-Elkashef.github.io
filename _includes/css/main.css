@@ -497,3 +497,15 @@ footer .footer-below {
         padding: 70px 45px;
     }
 }
+.box {
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 5px 5px 0 rgba(233,240,243,0.5), 0 0 0 1px #E6ECF8;
+    color: #293347;
+    display: block;
+    border-radius: 12px;
+}
+.section.skills {
+    margin-top: -14rem;
+    padding-bottom: 1rem;
+}
