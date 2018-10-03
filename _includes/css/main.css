@@ -484,10 +484,7 @@ footer .footer-below {
 .container.is-narrow {
     max-width: 1200px;
 }
-.columns .column ul {
-    list-style: none;
-    padding: 0;
-}
+
 @media screen and (min-width: 769px) {
     .columns {
         display: flex;
@@ -512,6 +509,7 @@ footer .footer-below {
 .columns .column:last-child {
     border-right: none;
 }
+
 /* styling each column */
 .columns .column .image {
     margin: 0 auto 2em;
@@ -525,4 +523,11 @@ footer .footer-below {
 .columns .column p.list-title {
     margin-top: 50px;
     margin-bottom: 8px;
+}
+.columns .column ul {
+    list-style: none;
+    padding: 0;
+}
+.columns .column ul li {
+    margin-top: 0.25em;
 }
