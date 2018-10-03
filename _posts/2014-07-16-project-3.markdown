@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2018-02-9
 img: neighborhood-app.png
 alt: image-alt
 project-date: February 2018
