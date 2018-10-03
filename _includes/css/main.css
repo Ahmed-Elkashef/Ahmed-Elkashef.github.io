@@ -531,3 +531,8 @@ footer .footer-below {
 .columns .column ul li {
     margin-top: 0.25em;
 }
+
+/* about section */
+#about > div > div:nth-child(2) > div > h3 {
+    margin-top: 100px;
+}
