@@ -490,6 +490,8 @@ footer .footer-below {
 @media screen and (min-width: 769px) {
     .columns {
         display: flex;
+    }
+    .columns .column {
         border-right: 1px solid #E6ECF8;
         padding: 70px 45px;
     }
