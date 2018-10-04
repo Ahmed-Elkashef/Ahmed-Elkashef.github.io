@@ -640,4 +640,5 @@ footer .list-inline>li {
     right: 50px;
     top: -60px;
     transform: rotate(-10deg);
+    transition-duration: 0.5s;
 }
