@@ -659,19 +659,28 @@ footer .list-inline>li {
         padding: 10px;
     }
     /*upwork section*/
+    #upwork-box {
+        border-radius: 0px;
+    }
     #upwork-box .columns {
-        padding: 3.5rem 2.25rem 5rem 2.25rem;
+        padding: 3.5rem 2.25rem;
     }
     /*upwork image*/
     .upwork-img img {
         max-width: 160px;
-        position: absolute;
-        right: 120px;
-        top: 220px;
-        transition: 0.5s ease-in-out;
+        position: inherit;
+        z-index: 10;
+        margin-bottom: -100px;
+    }
+    .upwork-img img:hover {
+        max-width: 200px;
+        transform: rotate(-10deg);
     }
     /*footer*/
     footer .footer-col {
-        margin-top: 80px;
+        margin-top: 60px;
+    }
+    #page-top > footer > div > div:nth-child(1) > div > div:nth-child(1) > p {
+        width: 70%;
     }
 }
