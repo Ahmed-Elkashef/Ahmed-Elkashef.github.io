@@ -620,3 +620,9 @@ footer .list-inline>li {
 #upwork-box .columns .column h1, #upwork-box .columns .column p{
     color: white;
 }
+#upwork-box .columns .column a {
+    color: white;
+    padding: 1.25em 2em;
+    font-weight: 400;
+    border-width: 2px;
+}
