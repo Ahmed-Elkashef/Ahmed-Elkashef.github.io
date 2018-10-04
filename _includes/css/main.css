@@ -337,7 +337,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    background-image: linear-gradient(#18bc9c -4%, #1fc8db 84%, #2cb5e8 124%);
 }
 
 footer .footer-col {
