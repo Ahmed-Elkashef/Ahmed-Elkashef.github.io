@@ -652,7 +652,7 @@ footer .list-inline>li {
 @media only screen and (max-width: 768px) {
     /*menu*/
     .navbar-header {
-        padding: 30px;
+        padding: 10px;
     }
     /*columns*/
     #page-top > section.section.skills.has-text-centered > div > div > div > div > div:nth-child(1), #page-top > section.section.skills.has-text-centered > div > div > div > div > div:nth-child(2) {
