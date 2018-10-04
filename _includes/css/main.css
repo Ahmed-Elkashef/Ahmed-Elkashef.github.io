@@ -615,6 +615,7 @@ footer .list-inline>li {
     flex-grow: 1;
     flex-shrink: 1;
     padding: .75rem;
+    text-align: center;
 }
 #upwork-box .columns .column h1, #upwork-box .columns .column p{
     color: white;
