@@ -536,6 +536,7 @@ footer .footer-below {
     margin-top: 0.25em;
 }
 
+
 /* about section */
 #about > div > div:nth-child(2) > div > h3 {
     margin-top: 100px;
@@ -648,3 +649,29 @@ footer .list-inline>li {
 
 
 /*mobile view*/
+@media only screen and (max-width: 768px) {
+    /*columns*/
+    #page-top > section.section.skills.has-text-centered > div > div > div > div > div:nth-child(1), #page-top > section.section.skills.has-text-centered > div > div > div > div > div:nth-child(2) {
+        border-bottom: 1px solid silver;
+    }
+    /*columns width*/
+    #page-top > section.section.skills.has-text-centered > div > div > div > div > div:nth-child(1), #page-top > section.section.skills.has-text-centered > div > div > div > div > div:nth-child(2),#page-top > section.section.skills.has-text-centered > div > div > div > div > div:nth-child(3) {
+        padding: 10px;
+    }
+    /*upwork section*/
+    #upwork-box .columns {
+        padding: 3.5rem 2.25rem 5rem 2.25rem;
+    }
+    /*upwork image*/
+    .upwork-img img {
+        max-width: 160px;
+        position: absolute;
+        right: 120px;
+        top: 220px;
+        transition: 0.5s ease-in-out;
+    }
+    /*footer*/
+    footer .footer-col {
+        margin-top: 80px;
+    }
+}
