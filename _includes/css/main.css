@@ -617,7 +617,7 @@ footer .list-inline>li {
     padding: .75rem;
     text-align: center;
 }
-#upwork-box .columns .column h1, #upwork-box .columns .column p{
+#upwork-box .columns .column h3, #upwork-box .columns .column p{
     color: white;
 }
 #upwork-box .columns .column a {
