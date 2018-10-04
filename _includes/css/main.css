@@ -540,6 +540,9 @@ footer .footer-below {
 #about > div > div:nth-child(2) > div > h3 {
     margin-top: 100px;
 }
+#about > div > div:nth-child(2) > div > img {
+    max-width: 100%;
+}
 
 /*testimonials*/
 #testimonials img {
@@ -642,3 +645,6 @@ footer .list-inline>li {
     top: -60px;
     transform: rotate(-10deg);
 }
+
+
+/*mobile view*/
