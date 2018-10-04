@@ -626,3 +626,16 @@ footer .list-inline>li {
     font-weight: 400;
     border-width: 2px;
 }
+.upwork-img {
+    text-align: center;
+}
+.upwork-img img {
+    max-width: 200px;
+    position: absolute;
+    right: 100px;
+    top: -20px;
+}
+.upwork-img img:hover {
+    max-width: 300px;
+    transform: rotate(20deg);
+}
