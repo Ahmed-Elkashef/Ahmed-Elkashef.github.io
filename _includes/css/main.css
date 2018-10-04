@@ -603,3 +603,6 @@ footer .list-inline>li {
     border: 0px;
     padding: 0;
 }
+#upwork-box .columns .column h1, #upwork-box .columns .column p{
+    color: white;
+}
