@@ -7,5 +7,5 @@ alt: image-alt
 project-date: October 2018
 client: ItalPasta
 category: Web Development, CMS
-description: <a href="https://www.italpasta.com/">Italpasta Limited</a> produces and sells pasta Across Canada, the United States, the Caribbean, the Philippines, and Asia.
+description: Italpasta Limited produces and sells pasta Across Canada, the United States, the Caribbean, the Philippines, and Asia. <a class="link-portfolio" href="https://www.italpasta.com/">(Link to Website)</a>
 ---
