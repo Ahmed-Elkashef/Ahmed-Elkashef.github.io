@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2018
 client: Wheels Gone Inc.
 category: Web Development, CMS
-description: A Full-Service Concierge that Comes to you at Your Time! <a href="https://wheelsgone.com/">Wheels Gone</a>
+description: A Full-Service Concierge that Comes to you at Your Time! <a class="link-portfolio" href="https://wheelsgone.com/">(Link to Website)</a>
 ---
