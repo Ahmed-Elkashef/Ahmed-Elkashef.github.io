@@ -6,6 +6,6 @@ img: common-sense-robotics.png
 alt: image-alt
 project-date: September 2018
 client: CS-Robotics
-category: Content Management System - CMS
+category: Web Development, CMS
 description: A $20 Million in-raise startup developing AI and robotics tech to help online grocery retailers. <a class="link-portfolio" href="https://www.cs-robotics.com">(Link To WebSite)</a>.
 ---
