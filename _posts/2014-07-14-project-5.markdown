@@ -2,10 +2,10 @@
 layout: default
 modal-id: 5
 date: 2018-04-14
-img: wheels-gone.png
+img: translateGE.png
 alt: image-alt
-project-date: April 2018
-client: Wheels Gone Inc.
-category: Web Development, CMS
-description: A Full-Service Concierge that Comes to you at Your Time! <a class="link-portfolio" href="https://wheelsgone.com/">(Link to Website)</a>
+project-date: June 2019
+client: TranslateGE
+category: CEO, Web Development, CMS
+description: TranslateGE is a friendly dictionary designed to help English language speakers learn German vocabulary<a class="link-portfolio" href="https://translatege.com/">(Link to Website)</a>
 ---
