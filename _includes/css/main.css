@@ -581,8 +581,11 @@ footer .footer-below {
 
 .fa-angle-right:before, .fa-angle-left:before {
     content: "\f105";
+    font-size: 55px;
+    font-weight: bolder;
     color: black;
-    font-size: xx-large;
+    position: relative;
+    top: 140px;
 }
 
 .testimonials {
