@@ -505,6 +505,8 @@ footer .footer-below {
     color: #293347;
     display: block;
     border-radius: 12px;
+    width: 95%;
+    margin: 0 auto;
 }
 .section.skills {
     margin-top: -14rem;
