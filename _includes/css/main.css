@@ -536,6 +536,10 @@ footer .footer-below {
     margin-top: 0.25em;
 }
 
+/* portfolio section */
+#portfolio > div > div:nth-child(2) > div:nth-child(3) {
+    height: 260px;
+}
 
 /* about section */
 #about > div > div:nth-child(2) > div > h3 {
