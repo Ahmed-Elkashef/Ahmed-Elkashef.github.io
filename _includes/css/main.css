@@ -584,6 +584,15 @@ footer .footer-below {
     color: black;
 }
 
+fa-angle-right::before {
+    content: "\f054";
+    display: inline-block;
+    position: relative;
+    font-family: FontAwesome;
+    font-size: 2em;
+    color: black;
+}
+
 .testimonials {
     padding: 100px 0 0;
 }
