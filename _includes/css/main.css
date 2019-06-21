@@ -576,21 +576,7 @@ footer .footer-below {
 }
 
 #myCarousel > a.left.carousel-control, #myCarousel > a.right.carousel-control {
-  background-image: linear-gradient(to right,white 0,white 100%) !important;
-}
-
-.glyphicon-chevron-left:before, .glyphicon-chevron-right:before {
-    content: "\e079";
-    color: black;
-}
-
-fa-angle-right::before {
-    content: "\f054";
-    display: inline-block;
-    position: relative;
-    font-family: FontAwesome;
-    font-size: 2em;
-    color: black;
+  background-image: linear-gradient(to right,rgba(0,0,0,0) 0, rgba(0,0,0,0)) !important;
 }
 
 .testimonials {
