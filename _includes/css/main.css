@@ -703,6 +703,10 @@ footer .list-inline>li {
         max-width: 200px;
         transform: rotate(-10deg);
     }
+    /* hide arrows for testimonials */
+    .fa-angle-right:before, .fa-angle-left:before {
+        display: none;
+    }
     /*footer*/
     footer .footer-col {
         margin-top: 60px;
