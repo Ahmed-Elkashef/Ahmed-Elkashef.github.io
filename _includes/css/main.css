@@ -575,6 +575,15 @@ footer .footer-below {
     margin-top: -10px;
 }
 
+#myCarousel > a.left.carousel-control, #myCarousel > a.right.carousel-control {
+  background-image: linear-gradient(to right,white 0,white 100%) !important;
+}
+
+.glyphicon-chevron-left:before, .glyphicon-chevron-right:before {
+    content: "\e079";
+    color: black;
+}
+
 /* footer */
 footer {
     z-index: 0;
