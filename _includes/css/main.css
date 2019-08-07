@@ -489,6 +489,10 @@ footer .footer-below {
     max-width: 1200px;
 }
 
+.columns .column {
+    border-radius: 12px;
+}
+
 @media screen and (min-width: 769px) {
     .columns {
         display: flex;
@@ -498,9 +502,12 @@ footer .footer-below {
         border: 1px solid #E6ECF8;
         padding: 70px 45px;
         width: 46%;
-        border-radius: 12px;
+    }
+    .info-sec {
+        margin-bottom: 0;
     }
 }
+
 .box {
     color: #293347;
     display: block;
@@ -540,6 +547,7 @@ footer .footer-below {
     background-color: darkslategrey !important;
     color: ghostwhite !important;
     border: 4px solid darkcyan !important;
+    margin-bottom: 100px;
 }
 .web-dev {
     background-color: ghostwhite !important;
