@@ -492,16 +492,17 @@ footer .footer-below {
 @media screen and (min-width: 769px) {
     .columns {
         display: flex;
+        justify-content: space-between;
     }
     .columns .column {
-        border-right: 1px solid #E6ECF8;
+        border: 1px solid #E6ECF8;
         padding: 70px 45px;
+        width: 46%;
+        border-radius: 12px;
+        background-color: white;
     }
 }
 .box {
-    background-color: #fff;
-    border-radius: 6px;
-    box-shadow: 0 5px 5px 0 rgba(233,240,243,0.5), 0 0 0 1px #E6ECF8;
     color: #293347;
     display: block;
     border-radius: 12px;
@@ -512,9 +513,7 @@ footer .footer-below {
     margin-top: -14rem;
     padding-bottom: 1rem;
 }
-.columns .column:last-child {
-    border-right: none;
-}
+
 
 /* styling each column */
 .columns .column .image {
