@@ -504,7 +504,7 @@ footer .footer-below {
         width: 46%;
     }
     .info-sec {
-        margin-bottom: 0;
+        margin-bottom: 0 !important;
     }
 }
 
