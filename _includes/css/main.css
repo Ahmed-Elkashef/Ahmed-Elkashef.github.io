@@ -499,7 +499,6 @@ footer .footer-below {
         padding: 70px 45px;
         width: 46%;
         border-radius: 12px;
-        background-color: white;
     }
 }
 .box {
@@ -538,14 +537,14 @@ footer .footer-below {
 }
 
 .info-sec {
-    background-color: darkslategrey;
-    color: ghostwhite;
-    border: 4px solid darkcyan;
+    background-color: darkslategrey !important;
+    color: ghostwhite !important;
+    border: 4px solid darkcyan !important;
 }
 .web-dev {
-    background-color: ghostwhite;
-    color: darkslategray;
-    border: 4px solid mediumturquoise;
+    background-color: ghostwhite !important;
+    color: darkslategray !important;
+    border: 4px solid mediumturquoise !important;
 }
 
 /* portfolio section */
