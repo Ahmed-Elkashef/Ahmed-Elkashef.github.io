@@ -480,6 +480,11 @@ footer .footer-below {
     transform: rotate(10deg);
     box-shadow: 0 10px 10px 0 rgba(0,0,0,0.2);
     border-radius: 50%;
+    transition-duration: 0.5s;
+}
+#ahmed-developer-icon:hover {
+    bottom: 40px;
+    right: 240px;
 }
 #ahmed-hiker-icon {
     width: 300px;
@@ -488,6 +493,12 @@ footer .footer-below {
     z-index: 1;
     box-shadow: 0 15px 15px 0 rgba(0,0,0,0.3);
     border-radius: 50%;
+    transition-duration: 0.5s;
+}
+#ahmed-hiker-icon:hover {
+    width: 350px;
+    height: 350px;
+    bottom: 0px;
 }
 #ahmed-hacker-icon {
     width: 170px;
@@ -499,6 +510,11 @@ footer .footer-below {
     transform: rotate(-10deg);
     box-shadow: 0 10px 10px 0 rgba(0,0,0,0.2);
     border-radius: 50%;
+    transition-duration: 0.5s;
+}
+#ahmed-hacker-icon:hover {
+    bottom: 40px;
+    left: 240px;
 }
 
 /*additional*/
