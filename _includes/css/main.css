@@ -583,7 +583,6 @@ footer .footer-below {
     }
     .info-sec {
         margin-bottom: 0 !important;
-        position: relative;
     }
 }
 
@@ -623,12 +622,14 @@ footer .footer-below {
 }
 
 .info-sec {
+    position: relative;
     background-color: darkslategrey !important;
     color: ghostwhite !important;
     border: 4px solid darkcyan !important;
     margin-bottom: 100px;
 }
 .web-dev {
+    position: relative;
     background-color: ghostwhite !important;
     color: darkslategray !important;
     border: 4px solid mediumturquoise !important;
