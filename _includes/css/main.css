@@ -483,8 +483,8 @@ footer .footer-below {
     transition-duration: 0.5s;
 }
 #ahmed-developer-icon:hover {
-    bottom: 40px;
-    right: 240px;
+    right: 260px;
+    transform: rotate(20deg);
 }
 #ahmed-hiker-icon {
     width: 300px;
@@ -496,8 +496,8 @@ footer .footer-below {
     transition-duration: 0.5s;
 }
 #ahmed-hiker-icon:hover {
-    width: 350px;
-    height: 350px;
+    width: 320px;
+    height: 320px;
     bottom: 0px;
 }
 #ahmed-hacker-icon {
@@ -513,8 +513,8 @@ footer .footer-below {
     transition-duration: 0.5s;
 }
 #ahmed-hacker-icon:hover {
-    bottom: 40px;
-    left: 240px;
+    transform: rotate(-20deg);
+    left: 260px;
 }
 
 /*additional*/
