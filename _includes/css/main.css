@@ -516,7 +516,7 @@ footer .footer-below {
     left: 25%;
 }
 @media only screen and (max-width: 1000px) {
-  #ahmed-hacker-icon, #ahmed-hiker-icon {
+  #ahmed-hacker-icon, #ahmed-developer-icon {
       display: none;
     }
 }
