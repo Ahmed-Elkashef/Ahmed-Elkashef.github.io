@@ -517,7 +517,7 @@ footer .footer-below {
 }
 
 /* two column icons */
-.hacker-column-icon {
+#hacker-column-icon {
     width: 130px;
     position: absolute;
     top: -40px;
@@ -528,7 +528,7 @@ footer .footer-below {
     transition-duration: 0.5s;
     border: 5px solid mediumseagreen;
 }
-.dev-column-icon {
+#dev-column-icon {
     width: 130px;
     position: absolute;
     top: -40px;
