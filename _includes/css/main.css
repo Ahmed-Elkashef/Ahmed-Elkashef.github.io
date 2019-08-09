@@ -516,6 +516,30 @@ footer .footer-below {
     left: 260px;
 }
 
+/* two column icons */
+.hacker-column-icon {
+    width: 130px;
+    position: absolute;
+    top: -40px;
+    left: -40px;
+    transform: rotate(-10deg);
+    box-shadow: 0 10px 10px 0 rgba(0,0,0,0.2);
+    border-radius: 50%;
+    transition-duration: 0.5s;
+    border: 5px solid mediumseagreen;
+}
+.dev-column-icon {
+    width: 130px;
+    position: absolute;
+    top: -40px;
+    right: -40px;
+    transform: rotate(10deg);
+    box-shadow: 0 10px 10px 0 rgba(0,0,0,0.2);
+    border-radius: 50%;
+    transition-duration: 0.5s;
+    border: 5px solid paleturquoise;
+}
+
 /*additional*/
 .inline-image {
   padding: 20px;
@@ -559,6 +583,7 @@ footer .footer-below {
     }
     .info-sec {
         margin-bottom: 0 !important;
+        position: relative;
     }
 }
 
