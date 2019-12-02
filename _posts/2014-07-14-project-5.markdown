@@ -6,6 +6,6 @@ img: translatege.png
 alt: image-alt
 project-date: June 2019
 client: TranslateGE
-category: CEO, Web Development, CMS
+category: SEO, Web Development, CMS
 description: TranslateGE is a friendly dictionary designed to help English language speakers learn German vocabulary<a class="link-portfolio" href="https://translatege.com/">(Link to Website)</a>
 ---
