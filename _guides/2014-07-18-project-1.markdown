@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-date: April 2014
+used-tools: dd, gdisk, hexdump
+category: Operating Systems
+description: <a href="https://docs.google.com/document/d/1_v1KWCt4r5sPBRcZ9QV7YVziozI1TECIJXCTdP1DoXQ/edit?usp=sharing">UEFI PXE Booting, General Booting Concepts</a>
+<a href="https://docs.google.com/document/d/178qFK880Z9v1ykML6bwdu7ZE_E1xgx1ruWlqBwxvYV0/edit?usp=sharing">UEFI Secure Boot in Details, inspecting all the chain of trust</a>
+<a href="https://docs.google.com/document/d/17MheaTCrzoSfMxaJhanygvlLh4eKBOBsEADSyv9GmwM/edit?usp=sharing">Understanding the Complete Booting Process</a>
+---

@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 5
+date: 2018-04-14
+img: translatege.png
+alt: image-alt
+project-date: June 2019
+used-tools: CAINE Operating System, GUYMAGER, log2timeline.py, Autopsy, Volatility, virustotal.com, Cuckoo, Ghidra
+category: Forensics
+description: <a href="https://docs.google.com/document/d/1hd5NqWIHYuE5nv2Sq9Y5bQS6SVPXj_2M7w2t-xnn06E/edit?usp=sharing">How to conduct Forensics Data Acquisition?</a>
+<a href="https://docs.google.com/document/d/1j3YayEt5QBzof5qAFM4v1qiRv90hkTPVpA3845JCKks/edit?usp=sharing">How to forensically analyze a FileSystem?</a>
+<a href="https://docs.google.com/document/d/1eXYyM2cRCZ6tFpI9NXhkzQtFOWB4m4vYQ9v71Yybe_Q/edit?usp=sharing">How to Forensically conduct Memory Analysis</a>
+<a href="https://docs.google.com/document/d/1GMl6XF1h7KBkguu0lNusPuv_UY91tOtSpclFuy58EAs/edit?usp=sharing">Sandboxing malware and conducting behavrioral analysis</a>
+---
