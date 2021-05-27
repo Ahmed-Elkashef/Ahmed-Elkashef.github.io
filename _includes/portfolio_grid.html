@@ -8,15 +8,15 @@
             </div>
         </div>
         <div class="row">
-            {% for guide in site.guides %}
+            {% for post in site.posts %}
                 <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal-{{ guide.modal-id }}" class="portfolio-link" data-toggle="modal">
+                    <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/guide/{{ guide.img }}" class="img-responsive" alt="{{ guide.alt }}">
+                        <img src="img/guide/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                     </a>
                 </div>
             {% endfor %}
