@@ -4,7 +4,7 @@ email: ahmedelkashef2012@gmail.com
 url: https://ahmed-elkashef.github.io/
 description: "Ahmed Elkashef is a Fullstack Web Developer, Ethical Hacker with over 3 years of experiences in a wide range of disciplines and technologies. Constantly in motion, learning and experiencing new things."
 keywords: "web-develoepr, information security analyst, soc, web, frontend, backend, python, javascript, security operations"
-skills: "Security Operations Center (SOC) Analyst - FullStack Web Developer"
+skills: "DevOps Engineer with a FullStack Web Developer background"
 meta_author: Elkashef Ahmed
 
 # Google webmaster tools
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 37 Gaafar St, Faisal St
-  - line: Giza, Egypt 12588
+  - line: Innopolis, Republic of Tatarstan
+  - line: Russian Federation 420500
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
