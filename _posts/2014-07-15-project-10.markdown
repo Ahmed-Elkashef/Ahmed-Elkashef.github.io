@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 4
+date: 2018-09-15
+img: common-sense-robotics.png
+alt: image-alt
+project-date: September 2018
+used-tools: Mona Script, Immunity Debugger, Metasploit, Msfvenom, msfconsole, FuzzGoat, AFL Fuzzer
+category: Exploits and Vulnerabilities
+description: <a href="https://docs.google.com/document/d/1VffXEd-mOmDMx5j5zu9e1FTqnilLYd9-kA2Lp7LCfE8/edit?usp=sharing">Reverse Shell Exploit + Buffer Overflow</a>
+<a href="https://docs.google.com/document/d/1ADAWPC8vuRMjBQbt87CDXod9u8YjHoaDWSgvFOrUGws/edit?usp=sharing">AFL (American Fuzzy Lop) Fuzzing the Fuzzgoat Vulnerable App</a>
+<a href="https://docs.google.com/document/d/1B9kbiGlOUoc3F4DMpSUG4NNHs5Ob2H1ORx42xJU2amU/edit?usp=sharing">Buffer Overflow, Understanding ASLR, Stack Protection</a>
+<a href="https://docs.google.com/document/d/1Dz-QL1h2dsATkLrj1CcU7rmsI1DZwdpVOu9I4yx6dyA/edit?usp=sharing">Reverse-Engineer 5 C programs (32 & 64 bit, statically and dynamically Linked)</a>
+<a href="https://docs.google.com/document/d/1X3kaQkaLidysUUg4-RksaDX0GoYL5U3qNSVCkPrrCRA/edit?usp=sharing">How to do Applicaiton Security Threats modeling?</a>
+<a href="https://docs.google.com/document/d/1bv866n2xK72Ulsj09Hd5GTBIWrBhoBkPXNCqYhlFZ2I/edit?usp=sharing">Bluetooth Hacking, Data Extraction</a>
+---
