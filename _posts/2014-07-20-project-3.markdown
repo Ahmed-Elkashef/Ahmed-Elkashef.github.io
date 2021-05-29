@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2018-02-9
+date: 2014-07-20
 img: devops.jpg
 alt: image-alt
 project-date: February 2018
@@ -14,4 +14,5 @@ description: <a href="https://docs.google.com/document/d/1qQJ6_lZsCOl9luQcEE-cy2
 <a href="https://docs.google.com/document/d/1Me1O_oUm6yWltI1Kj2ypQ-7w6yGHGto_qQm0feGMiJw/edit?usp=sharing">Secure the CI/CD Pipeline, OWASP Top 10</a>
 <a href="https://docs.google.com/document/d/1Pzje3OCqQFwZFHVtAU1Wg_Fcnmf9yez5XQmS50wvfEk/edit?usp=sharing">Configuration Management - Maintain Different Kinds of Systems at once</a>
 <a href="https://docs.google.com/document/d/17JDc5YbobLbuQlQEsO9dDmudT_XHovaBtWp9zwUP4eI/edit?usp=sharing">Database Management Systems Security - MySQL</a>
+
 ---

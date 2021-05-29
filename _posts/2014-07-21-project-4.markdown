@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2018-09-15
+date: 2014-07-21
 img: vulnerabilities.jpg
 alt: image-alt
 project-date: September 2018
@@ -13,4 +13,5 @@ description: <a href="https://docs.google.com/document/d/1VffXEd-mOmDMx5j5zu9e1F
 <a href="https://docs.google.com/document/d/1Dz-QL1h2dsATkLrj1CcU7rmsI1DZwdpVOu9I4yx6dyA/edit?usp=sharing">Reverse-Engineer 5 C programs (32 & 64 bit, statically and dynamically Linked)</a>
 <a href="https://docs.google.com/document/d/1X3kaQkaLidysUUg4-RksaDX0GoYL5U3qNSVCkPrrCRA/edit?usp=sharing">How to do Applicaiton Security Threats modeling?</a>
 <a href="https://docs.google.com/document/d/1bv866n2xK72Ulsj09Hd5GTBIWrBhoBkPXNCqYhlFZ2I/edit?usp=sharing">Bluetooth Hacking, Data Extraction</a>
+
 ---

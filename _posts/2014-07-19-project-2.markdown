@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2018-02-3
+date: 2014-07-19
 img: system_administration.jpg
 alt: image-alt
 project-date: February 2018
@@ -12,4 +12,5 @@ description: <a href="https://docs.google.com/document/d/19OdM6SNKDNXOtYL6AH2Gxo
 <a href="https://docs.google.com/document/d/1VknsQBhMzK7IPH70T0IWAAbvddylk32vkuh9P1od8b4/edit?usp=sharing">DNSSEC Configuration - BIND</a>
 <a href="https://docs.google.com/document/d/1O7iCuceLhU-ru689ZSLcRzVh_i0WdzaY6OB03yUVV3I/edit?usp=sharing">Mail Transfer Agents Configuration - Postfix</a>
 <a href="https://docs.google.com/document/d/13KH0oBdZFJlumMIq4CS4bC9jbbec2Tb0FQX9FaXYIKc/edit?usp=sharing">Web Server Configuration - Lighttpd</a>
+
 ---
