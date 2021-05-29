@@ -2,7 +2,7 @@
 layout: default
 modal-id: 12
 date: 2018-10-2
-img: italpasta.png
+img: cryptography.jpg
 alt: image-alt
 project-date: October 2018
 used-tools: Affine Cipher, Playfair Cipher, ADFGVX, Vigenere Cipher, Caesar Cipher, Statistical CryptoAnalysis, Enigma, 2 Viola, CrypTool 1.4.41

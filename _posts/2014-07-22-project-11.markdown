@@ -2,7 +2,7 @@
 layout: default
 modal-id: 11
 date: 2018-04-14
-img: translatege.png
+img: forensics.jpg
 alt: image-alt
 project-date: June 2019
 used-tools: CAINE Operating System, GUYMAGER, log2timeline.py, Autopsy, Volatility, virustotal.com, Cuckoo, Ghidra

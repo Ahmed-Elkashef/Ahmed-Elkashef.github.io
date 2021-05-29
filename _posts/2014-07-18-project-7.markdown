@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2018-02-3
-img: cabin.png
+img: operating_systems.jpg
 alt: image-alt
 project-date: April 2014
 client: dd, gdisk, hexdump

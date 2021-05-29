@@ -2,7 +2,7 @@
 layout: default
 modal-id: 10
 date: 2018-09-15
-img: common-sense-robotics.png
+img: vulnerabilities.jpg
 alt: image-alt
 project-date: September 2018
 used-tools: Mona Script, Immunity Debugger, Metasploit, Msfvenom, msfconsole, FuzzGoat, AFL Fuzzer

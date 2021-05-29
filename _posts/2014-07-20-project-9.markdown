@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 date: 2018-02-9
-img: neighborhood-app.jpg
+img: devops.jpg
 alt: image-alt
 project-date: February 2018
 used-tools: Docker, Kubernetes, Ceph, Ansible, Zabbix, Gitlab, Jenkins, AWS Amplify, SonarQube, OWASP ZAP, Metasploit Framework, AWS Relational Databases, AWS CloudEndure, AWS IAM, AWS EC2, AWS LoadBalancing

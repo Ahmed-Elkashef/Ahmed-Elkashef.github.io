@@ -2,7 +2,7 @@
 layout: default
 modal-id: 8
 date: 2018-02-3
-img: item-catalogue.jpg
+img: system_administration.jpg
 alt: image-alt
 project-date: February 2018
 used-tools: KVM, BIND, Postfix, Lighttpd 
