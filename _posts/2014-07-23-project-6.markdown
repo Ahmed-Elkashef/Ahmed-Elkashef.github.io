@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 12
+modal-id: 6
 date: 2018-10-2
 img: cryptography.jpg
 alt: image-alt

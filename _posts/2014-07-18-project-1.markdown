@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 7
+modal-id: 1
 date: 2018-02-3
 img: operating_systems.jpg
 alt: image-alt
