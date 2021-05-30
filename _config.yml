@@ -40,9 +40,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/Ahmed_Salah005
-  - title: facebook
-    url: https://www.facebook.com/Ahmed0Elkashef
+    url: https://twitter.com/ahmedelkashev
+  - title: telegram
+    url: https://web.telegram.org/#/im?p=@ahmedelkashev
   - title: stack-overflow
     url: https://stackoverflow.com/users/5896056/ahmed-salah-el-din
   - title: github
